@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "alice",
+    "passwordHash": "$2a$10$72Q5ib5ZOp0P5Zs85OTCSuWC6G0nqKXGabGxg2unhHy2MZa7dzobC",
+    "createdAt": "2026-08-31T17:59:06.635Z"
+  },
+  {
+    "id": 2,
+    "username": "nakshatra",
+    "passwordHash": "$2a$10$Fio1Laqm8o/yGAgpH56rQerZmWZYalvvP3B30vfv37FMZD4N0188W",
+    "createdAt": "2026-08-31T18:08:13.925Z"
+  },
+  {
+    "id": 3,
+    "username": "alice1788202296728",
+    "passwordHash": "$2a$10$/woQg0VL/3QP3MYmEUOjzOsawNziVSGlJ4NAKLs0RgXbV.qCGGKq6",
+    "createdAt": "2026-08-31T18:51:36.838Z"
+  },
+  {
+    "id": 4,
+    "username": "alice1788202325973",
+    "passwordHash": "$2a$10$Mj24PGVjwSBT2dkGQqfUce9rLW5kMkmxfjMg5rManQaUFRN0qNfwS",
+    "createdAt": "2026-08-31T18:52:06.082Z"
+  }
+]
